@@ -9,4 +9,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Imprimir mensaje en consola
-        run: Write-Output "Hola Mundo desde GitHub Actions"
+        run: Write-Output "Hola Mundo desde VS"
