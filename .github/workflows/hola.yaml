@@ -9,4 +9,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Imprimir mensaje en consola
-        run: Write-Output "Adios Mundo"
+        run: Write-Output "hola Mundo"
